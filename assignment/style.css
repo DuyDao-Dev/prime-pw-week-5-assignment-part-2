@@ -15,8 +15,14 @@ main {
   padding: 1em;
 }
 
-body {
+/* body {
   background: url(record.png);
   background-repeat: repeat;
   margin: 0;
+} */
+
+Stretch Goals
+body.recordBackground {
+  background: url(record.png);
+  background-repeat: repeat;
 }
