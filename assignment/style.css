@@ -2,27 +2,29 @@ header {
   background-color: #4B0082;
   text-align: center;
 }
-h1 {
+/* h1 {
   color: white;
 }
 
 h2 {
   color: white;
-}
+} */
 
 main {
   background-color: #D3D3D3;
   padding: 1em;
 }
 
-/* body {
+body {
   background: url(record.png);
   background-repeat: repeat;
   margin: 0;
-} */
+}
 
-Stretch Goals
-body.recordBackground {
-  background: url(record.png);
-  background-repeat: repeat;
+/* Stretch Goals */
+
+/* I commented out the h1 and h2 for stretch goal*/
+
+.textcolor {
+  color: #FFF8DC;
 }
